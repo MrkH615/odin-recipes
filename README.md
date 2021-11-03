@@ -5,5 +5,5 @@ project for The Odin Project's Foundations course https://www.theodinproject.com
 ##WHAT I LEARNED
 - using directories to organize a project
 - git workflow
-- use of headers
+- using headings semantically
 
