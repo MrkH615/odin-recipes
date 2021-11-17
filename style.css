@@ -19,6 +19,22 @@ a:visited {
     color:  #000000;/*#445DA7;*/
     width: 100vw;
     height: 100vh;
-    font-family: Arial, sans-serif;
-   
+}
+
+.main, .recipe {
+    font-family: Arial,sans-serif;
+}
+
+#kale {
+    background-color: #b5a642;
+}
+
+#fattoush {
+    background-color: #bcf1ef;
+}
+
+#chicken {
+   /* background-color:#E5B73B; meat brown*/
+   /*background-color: #6891FF; duck's egg blue*/
+   background-color: #ed872d;
 }
