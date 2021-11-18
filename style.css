@@ -2,6 +2,15 @@ ul {
     list-style: none;
 }
 
+li {
+    padding-bottom: 12rem;
+    padding-left: 2rem;
+}
+
+a {
+    font-size: 2rem;
+}
+
 a:visited {
     /* color: #A76244;*/
     color: #00cccc;
@@ -17,24 +26,36 @@ a:visited {
     /*background-image: url('../images/retro-kitchen-annie-spratt-TFvF1Diklm0-unsplash.jpg');*/
     background-color: #cc0000;/*#93A744*/
     color:  #000000;/*#445DA7;*/
-    width: 100vw;
-    height: 100vh;
+    width: 98vw;
+    height: 97vh;
+    overflow: hidden;
 }
 
 .main, .recipe {
     font-family: Arial,sans-serif;
 }
 
-#kale {
-    background-color: #b5a642;
-}
 
-#fattoush {
+.kale {
+    /*background-color: #b5a642; pale olive green */
+   /*  background-color: #36627b; Chinese porcelain*
+   background-color: #4a79a0;*/
+   /*background-color: #EAAA00;  mustard yellow */
+   background-color: #ffd1dc; /* millenial pink */
+} 
+
+.fattoush {
     background-color: #bcf1ef;
 }
 
-#chicken {
+.thumbnail {
+    width: 20%;
+    height: auto;
+    float: right;
+}
+
+.chicken{
    /* background-color:#E5B73B; meat brown*/
-   /*background-color: #6891FF; duck's egg blue*/
-   background-color: #ed872d;
+   /* background-color: #6891FF; /*duck's egg blue*/
+   background-color: #ed872d; /*cadmium orange */
 }
