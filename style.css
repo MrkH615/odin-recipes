@@ -2,9 +2,10 @@ ul {
     list-style: none;
 }
 
-li {
+.index {
     padding-bottom: 12rem;
     padding-left: 2rem;
+    margin-right: 1rem;
 }
 
 a {
@@ -18,7 +19,8 @@ a:visited {
 }
 
 .heading {
-    font-family: 'Brush Script MT', cursive;
+    font-family: 'Brush Script MT', cursive; 
+    font-size: 3rem;
 }
 
 .main {
@@ -34,6 +36,12 @@ a:visited {
 .main, .recipe {
     font-family: Arial,sans-serif;
 }
+
+
+.recipe {
+    text-align: center;
+}
+
 
 
 .kale {
