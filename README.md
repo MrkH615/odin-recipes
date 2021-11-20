@@ -6,4 +6,5 @@ project for The Odin Project's Foundations course https://www.theodinproject.com
 - using directories to organize a project
 - git workflow
 - using headings semantically
+- grouping and chaining selectors
 
